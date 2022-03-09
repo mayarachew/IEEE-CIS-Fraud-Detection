@@ -10,4 +10,4 @@ https://www.kaggle.com/c/ieee-fraud-detection/
 - The probability that an online transaction is fraudulent is denoted by the binary target 'isFraud'.
 
 ## Objective
-Predicting the probability that an online transaction is fraudulent, using visualization techniques.
+Predicting the probability that an online transaction is fraudulent, using classification and visualization techniques.
