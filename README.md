@@ -7,7 +7,6 @@ Fraud detection in customer transactions.
 Transaction train/test data from https://www.kaggle.com/c/ieee-fraud-detection/
 
 - Labeled dataset;
-- There are only PCA values;
 - The probability that an online transaction is fraudulent is denoted by the binary target 'isFraud'.
 
 ## Objectives
@@ -17,5 +16,5 @@ Predicting the probability that an online transaction is fraudulent, using visua
 ## Getting started
 
 1. Install dependencies (`requirements.txt`);
-2. Download `train_transaction.zip` and `test_transaction.zip` from dataset link and copy them to `data` folder;
+2. Download `train_transaction.zip` and `test_transaction.zip` from dataset link and copy them to `/data` folder;
 3. Run `.ipynb` files.
