@@ -10,7 +10,7 @@ Transaction train/test data from https://www.kaggle.com/c/ieee-fraud-detection/
 - There are only PCA values;
 - The probability that an online transaction is fraudulent is denoted by the binary target 'isFraud'.
 
-## Objective
+## Objectives
 
 Predicting the probability that an online transaction is fraudulent, using visualization and classification techniques.
 
