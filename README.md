@@ -7,7 +7,6 @@ Fraud detection in customer transactions.
 Transaction train/test data from https://www.kaggle.com/c/ieee-fraud-detection/
 
 - Labeled dataset;
-- There are only PCA values;
 - The probability that an online transaction is fraudulent is denoted by the binary target 'isFraud'.
 
 ## Objectives
