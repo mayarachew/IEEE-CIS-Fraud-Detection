@@ -16,5 +16,5 @@ Predicting the probability that an online transaction is fraudulent, using visua
 ## Getting started
 
 1. Install dependencies (`requirements.txt`);
-2. Download `train_transaction.zip` and `test_transaction.zip` from dataset link and copy them to `data` folder;
+2. Download `train_transaction.zip` and `test_transaction.zip` from dataset link and copy them to `/data` folder;
 3. Run `.ipynb` files.
